@@ -146,43 +146,42 @@ Links to the tests:
 
 ## CODE CLIMATE
 
-For eb-nanotwitter-main:
+### Nanotwitter-Main
 Maintainability Badge: <a href="https://codeclimate.com/github/Fantastic-Four124/eb-nanotwitter-main/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/c112b1c388920bea651b/maintainability" /></a>
 
 Testing Badge: <a href="https://codeclimate.com/github/Fantastic-Four124/eb-nanotwitter-main/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/c112b1c388920bea651b/test_coverage" /></a>
 ----
-For nanotwitter-follow-service:
+### Nanotwitter-follow-service:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/nanotwitter-follow-service/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/41751129b3743162cf15/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/nanotwitter-follow-service/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/41751129b3743162cf15/test_coverage" /></a>
 ----
-For nanotwitter rabbit for follows:
+### Rabbit-Follows:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbitmq-follow-Open-app-More-/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/8c9c76bbf16a12aba5b5/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbitmq-follow-Open-app-More-/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/8c9c76bbf16a12aba5b5/test_coverage" /></a>
 ----
-For rabbit timeline:
+### Rabbit-Timeline:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbit-timeline/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/7e080d7cd03726500252/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbit-timeline/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/7e080d7cd03726500252/test_coverage" /></a>
 ----
-For rabbit writer:
+### Rabbit-Writer:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbit-writer/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/f1d1164b184d93416feb/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/nt-rabbit-writer/test_coverage%22%3E"> <img src="https://api.codeclimate.com/v1/badges/f1d1164b184d93416feb/test_coverage" /></a>
 ----
-For tweet-reader:
+### Tweet-Reader:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/tweet-reader/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/e7f75254c8b92dd4d193/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/tweet-reader/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/e7f75254c8b92dd4d193/test_coverage" /></a>
 ----
-For Tweet-writer:
+### Tweet-Writer:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/tweet-writer/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/e418c9615757432503b9/maintainability" /></a>
 
 Testing: <a href="https://codeclimate.com/github/Fantastic-Four124/tweet-writer/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/e418c9615757432503b9/test_coverage" /></a>
 ----
-For userservice:
+### Userservice:
 Maintainability: <a href="https://codeclimate.com/github/Fantastic-Four124/userservice/maintainability%22%3E"><img src="https://api.codeclimate.com/v1/badges/a4fe2b3db77fc6ca0f1a/maintainability" /></a>
 
 Testing:  <a href="https://codeclimate.com/github/Fantastic-Four124/userservice/test_coverage%22%3E"><img src="https://api.codeclimate.com/v1/badges/a4fe2b3db77fc6ca0f1a/test_coverage" /></a>
-
