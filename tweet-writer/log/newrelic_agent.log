@@ -1,0 +1,109 @@
+# Logfile created on 2018-04-19 13:25:10 -0400 by logger.rb/61378
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Reading configuration from config/newrelic.yml (/Users/zhengyangzhou/Desktop/Spring 2018/tweet-writer)
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Environment: development
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : No known dispatcher detected.
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Application: My Application (Development)
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Bunny instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Mongo instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Net instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Sinatra instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Installing Redis Instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Finished instrumentation
+[2018-04-19 13:25:10 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-19 13:25:13 -0400 Zhengyangs-MacBook-Pro-2.local (26757)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1949244/applications/50519398
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Reading configuration from config/newrelic.yml (/Users/zhengyangzhou/Desktop/Spring 2018/tweet-writer)
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Environment: development
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : No known dispatcher detected.
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Application: My Application (Development)
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing Mongo instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing Net instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing Sinatra instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Installing Redis Instrumentation
+[2018-04-22 18:43:46 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Finished instrumentation
+[2018-04-22 18:43:49 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1949244/applications/50519398
+[2018-04-22 18:47:36 -0400 Zhengyangs-MacBook-Pro-2.local (14023)] INFO : Starting Agent shutdown
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Reading configuration from config/newrelic.yml (/vagrant/CS166b/CS105b/tweet-writer)
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Environment: development
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : No known dispatcher detected.
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Application: My Application (Development)
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Installing Net instrumentation
+[2018-04-23 04:12:26 +0000 precise64 (4231)] INFO : Installing Sinatra instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Installing Bunny instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Installing Mongo instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Installing Redis Instrumentation
+[2018-04-23 04:12:27 +0000 precise64 (4231)] INFO : Finished instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Reading configuration from config/newrelic.yml (/vagrant/CS166b/CS105b/tweet-writer)
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Environment: development
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : No known dispatcher detected.
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Application: My Application (Development)
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Net instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Sinatra instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Bunny instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Mongo instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Installing Redis Instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Finished instrumentation
+[2018-04-23 04:14:09 +0000 precise64 (4271)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Reading configuration from config/newrelic.yml (/Users/zhengyangzhou/Desktop/Spring 2018/tweet-writer)
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Environment: development
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : No known dispatcher detected.
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Application: My Application (Development)
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Bunny instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Mongo instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Net instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Sinatra instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Installing Redis Instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Finished instrumentation
+[2018-04-23 23:34:37 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-23 23:34:39 -0400 Zhengyangs-MacBook-Pro-2.local (25133)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1949244/applications/50519398
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Reading configuration from config/newrelic.yml (/Users/zhengyangzhou/Desktop/Spring 2018/tweet-writer)
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Environment: development
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : No known dispatcher detected.
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Application: My Application (Development)
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Bunny instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Mongo instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Net instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Sinatra instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Installing Redis Instrumentation
+[2018-04-25 19:42:30 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Finished instrumentation
+[2018-04-25 19:42:33 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1949244/applications/50519398
+[2018-04-25 19:47:00 -0400 Zhengyangs-MacBook-Pro-2.local (55993)] INFO : Starting Agent shutdown
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Reading configuration from config/newrelic.yml (/Users/zhengyangzhou/Desktop/Spring 2018/tweet-writer)
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Environment: development
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : No known dispatcher detected.
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Application: My Application (Development)
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Bunny instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Mongo instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Net instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Sinatra instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Installing Redis Instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Finished instrumentation
+[2018-04-27 18:44:44 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-27 18:44:46 -0400 Zhengyangs-MacBook-Pro-2.local (62212)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1949244/applications/50519398

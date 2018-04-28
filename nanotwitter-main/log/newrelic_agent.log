@@ -1,0 +1,102 @@
+# Logfile created on 2018-04-25 20:25:31 -0400 by logger.rb/61378
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Environment: development
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : No known dispatcher detected.
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Application: My Application (Development)
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing Bunny instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing Sinatra instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing Redis Instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Installing Net instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Finished instrumentation
+[2018-04-25 20:25:31 -0400 arch (21988)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Environment: development
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : No known dispatcher detected.
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Application: My Application (Development)
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing Bunny instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing Sinatra instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing Redis Instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Installing Net instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Finished instrumentation
+[2018-04-25 22:10:48 -0400 arch (29886)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Environment: development
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : No known dispatcher detected.
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Application: My Application (Development)
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing Bunny instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing Sinatra instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing Redis Instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Installing Net instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Finished instrumentation
+[2018-04-25 22:15:13 -0400 arch (30305)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Environment: development
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : No known dispatcher detected.
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Application: My Application (Development)
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing Bunny instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing Sinatra instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing Redis Instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Installing Net instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Finished instrumentation
+[2018-04-25 22:25:42 -0400 arch (30926)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Environment: development
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : No known dispatcher detected.
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Application: My Application (Development)
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing Bunny instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing Sinatra instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing Redis Instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Installing Net instrumentation
+[2018-04-25 23:01:44 -0400 arch (2370)] INFO : Finished instrumentation
+[2018-04-25 23:01:51 -0400 arch (2370)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1960656/applications/51282544
+[2018-04-25 23:02:53 -0400 arch (2370)] INFO : Starting Agent shutdown
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Environment: development
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : No known dispatcher detected.
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Application: My Application (Development)
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing Bunny instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing Sinatra instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing Redis Instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Installing Net instrumentation
+[2018-04-26 10:31:41 -0400 arch (11487)] INFO : Finished instrumentation
+[2018-04-26 10:31:42 -0400 arch (11487)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-26 10:31:44 -0400 arch (11487)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1960656/applications/51282544
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Reading configuration from config/newrelic.yml (/home/tcw/Scalability/nanotwitter_files/eb-nanotwitter)
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Environment: development
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : No known dispatcher detected.
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Application: My Application (Development)
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing Bunny instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing Sinatra instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing Redis Instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Installing Net instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Finished instrumentation
+[2018-04-26 14:23:23 -0400 arch (17738)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-26 14:23:30 -0400 arch (17738)] INFO : Reporting to: https://rpm.newrelic.com/accounts/1960656/applications/51282544
